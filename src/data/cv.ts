@@ -6,7 +6,7 @@ export const profile = {
   telegram: '@esurzhanski',
   telegramUrl: 'https://t.me/esurzhanski',
   linkedin: '/in/esurzhanski',
-  linkedinUrl: 'https://www.linkedin.com/in/evgeny-surzhansky-76909a1b',
+  linkedinUrl: 'https://www.linkedin.com/in/evgeni-surzhanski-76909a1b',
   cvUrl: '/Evgeni-Surzhanski-CV.pdf',
   keywords: ['AI-Native Products', 'Fintech', 'Mobile', 'Gaming', 'Growth'],
   summary:
